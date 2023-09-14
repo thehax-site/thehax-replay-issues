@@ -10,7 +10,7 @@ assignees: FrescoPL
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-** Url to replay (optional) **
+** Url to replay **
 Please provide a link to the replay if it exists.
 
 **Screenshots**
